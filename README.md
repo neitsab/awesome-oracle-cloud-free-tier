@@ -61,7 +61,6 @@
 
 * [Learn About Provisioning an ARM Kubernetes Cluster on OCI and Deploying an Nginx Website](https://docs.oracle.com/en/solutions/build-arm-kubernetes-cluster-oci/index.html): short tutorial hosted by Oracle; its second part uses a Terraform script available on GitHub to provision an cluster with Always Free resources
 * [Kubernetes on Oracle Cloud...for free](https://me.mattscott.cloud/kubernetes-on-oracle-cloud-for-free/) (2023-08): converting an account to [#Pay As You Go](#pay-as-you-go) so as to use Oracle Kubernetes Engine (OKE) to easily set up a cluster while still using only free resources
-* [k3s-fcos-oci](https://github.com/m5lapp/k3s-fcos-oci): create a four-node K3s cluster running Fedora CoreOS as the node OS using Always Free resources
 
 ## Workarounds
 
