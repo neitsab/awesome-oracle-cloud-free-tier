@@ -87,7 +87,7 @@
 
 [Pay As You Go](https://docs.oracle.com/en/cloud/get-started/subscriptions-cloud/ocpib/frequently-asked-questions.html) (often referred to as "PAYG") is as its name implies, a type of account where you get charged for what you use.
 
-It unlocks all paid features and services beyond Always Free ones, but that doesn't mean you have to use them: you can keep using only Always Free resources) while benefiting from the avantages of an upgraded account.
+It unlocks all paid features and services beyond Always Free ones, but that doesn't mean you have to use them: you can keep using only Always Free resources while benefiting from the avantages of an upgraded account.
 
 * **Pros:** access to all services & functionalities (including Oracle Kubernetes Engine), no risk of idle compute instance reclamation, upgrade to standard support level (which allows to ask the unblocking of outgoing SMTP traffic on port 25 etc.)
 * **Cons:** may incur charges if resources beyond those available in the Always Free tier are consumed
